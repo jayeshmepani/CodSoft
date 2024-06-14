@@ -1,0 +1,4 @@
+Password Generator|task 3|Incomplete|2024-05-06 11:35:22.355552|None
+Calculator|task 2|Incomplete|2024-05-06 11:36:42.967463|None
+To-Do list|task 1|Completed|2024-05-06 11:38:14.170037|2024-05-06 12:17:31.340198
+Contact book|task 5|Completed|2024-05-06 12:16:37.956237|2024-05-06 13:27:53.196562
