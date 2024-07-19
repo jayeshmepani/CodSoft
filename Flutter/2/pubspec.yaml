@@ -1,0 +1,21 @@
+name: todo_list_app
+description: A simple To-Do List app built with Flutter.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^5.0.0
+  uuid: ^3.0.4  # Add the uuid package dependency here
+
+  # Add any additional dependencies for your app here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,129 @@
+2024-06-25T14:52:21.385Z P:4988 T:9396] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureCanStart
+2024-06-25T14:52:22.613Z P:4988 T:12632] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-06-25T14:52:25.832Z P:4988 T:9396] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:52:25.832Z P:4988 T:9396] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:52:25.832Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Bookmarks: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Preferences: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Extensions: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Typed URLs: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Extension settings: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load History Delete Directives: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Web Apps: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Collection: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Edge E Drop: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Edge Hub App Usage: success
+2024-06-25T14:52:25.835Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Edge Tab Group: success
+2024-06-25T14:52:25.836Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Edge Wallet: success
+2024-06-25T14:52:25.843Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Sessions: success
+2024-06-25T14:52:25.843Z P:4988 T:9396] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:25.843Z P:4988 T:9396] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:25.843Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:52:25.843Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:52:26.827Z P:4988 T:12632] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:52:26.830Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-06-25T14:52:26.830Z P:4988 T:9396] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:52:26.830Z P:4988 T:9396] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:52:26.831Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Passwords: success
+2024-06-25T14:52:26.831Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Autofill Profiles: success
+2024-06-25T14:52:26.831Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Autofill: success
+2024-06-25T14:52:26.831Z P:4988 T:9396] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:52:26.831Z P:4988 T:14960] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Left: 3
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Preferences, Passwords, Device Info, Send Tab To Self, Edge E Drop
+2024-06-25T14:52:26.831Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: Passwords, Encryption Keys
+2024-06-25T14:52:26.831Z P:4988 T:2628] SyncManagerImpl::ConfigureSyncer,Types to download: Passwords, Encryption Keys
+2024-06-25T14:52:27.265Z P:4988 T:9396] ModelLoadManager::ModelLoadCallback,Load Passwords: failed
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-06-25T14:52:27.274Z P:4988 T:9396] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:52:27.274Z P:4988 T:9396] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:52:27.274Z P:4988 T:9396] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:52:27.274Z P:4988 T:14960] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Left: 3
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Preferences, Device Info, Send Tab To Self, Edge E Drop
+2024-06-25T14:52:27.274Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:52:27.274Z P:4988 T:12632] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:52:27.275Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-06-25T14:52:27.275Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Bookmarks
+2024-06-25T14:52:27.275Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:52:27.275Z P:4988 T:14960] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:52:27.280Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-06-25T14:52:27.284Z P:4988 T:9396] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, User Consents, Web Apps, Collection, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:52:27.284Z P:4988 T:9396] DataTypeManagerImpl::PrepareConfigureParams,Add types: Edge Tab Group, Encryption Keys
+2024-06-25T14:52:27.284Z P:4988 T:14960] SyncManagerImpl::ConfigureSyncer,Types to download: Edge Tab Group, Encryption Keys
+2024-06-25T14:52:27.476Z P:4988 T:9396] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-06-25T14:52:29.016Z P:4988 T:12632] Commit::PostAndProcessResponse,Sessions: Success
+2024-06-25T14:52:29.016Z P:4988 T:12632] Commit::PostAndProcessResponse,Device Info: Success
+2024-06-25T14:53:01.937Z P:4988 T:14960] Commit::PostAndProcessResponse,Sessions: Success
+2024-06-25T14:58:01.280Z P:5860 T:7520] SyncServiceImpl::Initialize,SyncState after the account was authenticated: FeatureCanStart
+2024-06-25T14:58:02.296Z P:5860 T:6036] SyncManagerImpl::ConfigureSyncer,Types to download: Encryption Keys
+2024-06-25T14:58:03.920Z P:5860 T:7520] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:58:03.920Z P:5860 T:7520] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:58:03.920Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Bookmarks: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Preferences: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Extensions: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Typed URLs: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Extension settings: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load History Delete Directives: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Device Info: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load User Consents: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Send Tab To Self: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Web Apps: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Collection: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Edge E Drop: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Edge Hub App Usage: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Edge Tab Group: success
+2024-06-25T14:58:03.925Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Edge Wallet: success
+2024-06-25T14:58:03.929Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Sessions: success
+2024-06-25T14:58:03.929Z P:5860 T:7520] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:03.929Z P:5860 T:7520] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:03.929Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:58:03.929Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.297Z P:5860 T:6036] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.301Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Passwords: success
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Autofill Profiles: success
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Autofill: success
+2024-06-25T14:58:04.301Z P:5860 T:7520] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:04.301Z P:5860 T:7520] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:04.301Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:58:04.301Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.301Z P:5860 T:2268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.302Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Left: 3
+2024-06-25T14:58:04.302Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Preferences, Passwords, Device Info, Send Tab To Self, Edge E Drop
+2024-06-25T14:58:04.302Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: Passwords, Encryption Keys
+2024-06-25T14:58:04.302Z P:5860 T:2268] SyncManagerImpl::ConfigureSyncer,Types to download: Passwords, Encryption Keys
+2024-06-25T14:58:04.842Z P:5860 T:7520] ModelLoadManager::ModelLoadCallback,Load Passwords: failed
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Reconfigure
+2024-06-25T14:58:04.852Z P:5860 T:7520] ModelLoadManager::Configure,Desired: Bookmarks, Preferences, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys preferred: Bookmarks, Preferences, Passwords, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet, Encryption Keys
+2024-06-25T14:58:04.852Z P:5860 T:7520] ModelLoadManager::LoadDesiredTypes,Desired: Bookmarks, Preferences, Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, Device Info, User Consents, Send Tab To Self, Web Apps, Collection, Edge E Drop, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:58:04.852Z P:5860 T:7520] ModelLoadManager::NotifyDelegateIfReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::OnAllDataTypesReadyForConfigure,All data types are ready for configuration
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 4 front: Encryption Keys
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.852Z P:5860 T:2268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Left: 3
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 3 front: Preferences, Device Info, Send Tab To Self, Edge E Drop
+2024-06-25T14:58:04.852Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.852Z P:5860 T:6036] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.856Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Left: 2
+2024-06-25T14:58:04.856Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 2 front: Bookmarks
+2024-06-25T14:58:04.856Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.856Z P:5860 T:2268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.856Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Left: 1
+2024-06-25T14:58:04.859Z P:5860 T:7520] DataTypeManagerImpl::StartNextConfiguration,Size: 1 front: Autofill Profiles, Autofill, Typed URLs, Extensions, Sessions, Extension settings, History Delete Directives, User Consents, Web Apps, Collection, Edge Hub App Usage, Edge Tab Group, Edge Wallet
+2024-06-25T14:58:04.859Z P:5860 T:7520] DataTypeManagerImpl::PrepareConfigureParams,Add types: 
+2024-06-25T14:58:04.859Z P:5860 T:2268] SyncManagerImpl::ConfigureSyncer,Types to download: 
+2024-06-25T14:58:04.859Z P:5860 T:7520] DataTypeManagerImpl::ConfigurationCompleted,Left: 0
+2024-06-25T14:58:05.502Z P:5860 T:2268] Commit::PostAndProcessResponse,Sessions: Success
+2024-06-25T14:58:36.005Z P:5860 T:2268] Commit::PostAndProcessResponse,Sessions: Success

@@ -1,0 +1,26 @@
+name: recipe_app
+description: A recipe browsing and viewing app.
+
+version: 1.0.0
+
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Add the assets section to include the assets folder and its contents
+  assets:
+    - assets/img/veg.png
+    - assets/img/non-veg.png

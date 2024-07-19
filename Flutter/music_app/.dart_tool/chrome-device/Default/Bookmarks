@@ -1,0 +1,349 @@
+{
+   "checksum": "65489a764929b0412caa305092aec3f8",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13363796893190669",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13307967423158154",
+            "date_last_used": "0",
+            "date_modified": "13307967423158154",
+            "guid": "ca26fc7f-6bc8-43d0-ad34-bc0422581720",
+            "id": "18",
+            "name": "Bookmark Bar",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13307967423158998",
+            "date_last_used": "0",
+            "date_modified": "13307967423158998",
+            "guid": "2dcac09a-8fe4-4a22-a65e-3cff2773b7bb",
+            "id": "19",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "2e6cc75a-3cbf-47e1-989a-0002db35a21c",
+               "id": "21",
+               "name": "ASTRA-MANTRAS IN THE RIG VEDA",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://m.facebook.com/notes/mantra-shlokas/astra-mantras-in-the-rig-veda/305302559482575/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "09e22121-b30b-4dde-a42f-f2db5d6538d0",
+               "id": "22",
+               "name": "How big is a quark? | Science | The Guardian",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.co.in/amp/s/amp.theguardian.com/science/life-and-physics/2016/apr/07/how-big-is-a-quark"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "9eb31f96-c441-4ed7-b8ef-dd6cd3f8fa69",
+               "id": "23",
+               "name": "size of electron - Google Search",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.google.co.in/search?client=ms-android-htc&biw=360&bih=286&ei=XEtcW6nSDcjjvAS2o6PYAw&q=size+of+electron&oq=size+of+e&gs_l=mobile-gws-wiz-serp.1.0.35i39j0i131j0l3.96529.102286..103937...4.0...308.4120.0j4j13j1......0....1.........0i71j33i22i29i30j33i160j0i67.0YhJO05TBPQ"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "a3e0efa4-541e-4dc7-be0b-01367b6b14dd",
+               "id": "24",
+               "name": "SS64 Command line reference",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ss64.com/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "14c07e1a-81cf-441e-baf8-6447f96af494",
+               "id": "25",
+               "name": "Experiments",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "chrome://flags/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "d6887696-3b2a-432d-a4e4-c79933223946",
+               "id": "26",
+               "name": "iCloud",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.icloud.com/iclouddrive/"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "5a97aecd-d9d4-4d47-b1fa-a0483f82e6fe",
+               "id": "27",
+               "name": "https://admissions-it.nirmauni.ac.in/Student/AdmissionCategory.aspx",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://admissions-it.nirmauni.ac.in/Student/AdmissionCategory.aspx"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "68010135-61e1-443c-b8db-d0765b331fd1",
+               "id": "28",
+               "name": "Calculator, Maximum camera image dimension and pr…",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.scantips.com/mpixels.html"
+            }, {
+               "children": [ {
+                  "date_added": "0",
+                  "date_last_used": "0",
+                  "guid": "afee4b6e-1ecc-4864-80fd-e293b6af9d3c",
+                  "id": "30",
+                  "name": "Calculator, Maximum camera image dimension and pr…",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.scantips.com/mpixels.html"
+               }, {
+                  "date_added": "13322484248902115",
+                  "date_last_used": "0",
+                  "guid": "46bce645-d3f5-4e53-98ec-28484c11f860",
+                  "id": "31",
+                  "name": "",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "file:///C:/Users/Jay/Desktop/APK%20Easy%20Tool%20portable/1-Decompiled%20APKs/FMWA9.60_By.FouadMODS/res/values/plurals.xml"
+               }, {
+                  "date_added": "13340164155807712",
+                  "date_last_used": "0",
+                  "guid": "6ab19968-c5d2-44dd-a322-8d633c67d962",
+                  "id": "32",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "New tab",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "edge://newtab/"
+               }, {
+                  "date_added": "13356562736093314",
+                  "date_last_used": "0",
+                  "guid": "5c6d4019-38b1-4a80-9e2d-e3ac3677f6e6",
+                  "id": "33",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Mahābhārata Overview",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "http://127.0.0.1:5500/Puranas_overview.html"
+               }, {
+                  "date_added": "13363434230862099",
+                  "date_last_used": "0",
+                  "guid": "1d5b4da1-4531-45d6-977b-75e7e370b09e",
+                  "id": "34",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Flask GUI Weather App",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://chatgpt.com/c/24925877-e61f-4c48-9cb1-834783d5da80"
+               } ],
+               "date_added": "13307967423160298",
+               "date_last_used": "0",
+               "date_modified": "13363434230862099",
+               "guid": "68fbe86e-14bc-42db-ae3b-9cf9f854ab40",
+               "id": "29",
+               "name": "New Folder",
+               "source": "unknown",
+               "type": "folder"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "40f50be2-9720-4624-9d07-395cfe91c1c9",
+               "id": "35",
+               "name": "Downloaders | Download Any File From Any Site",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://downloaders.beatsnoop.com/?m=1"
+            }, {
+               "date_added": "0",
+               "date_last_used": "0",
+               "guid": "88d6da10-c809-4a89-8e45-ac9097c4dc13",
+               "id": "36",
+               "name": "Using Bits Per Pixel (BPP) To Calculate The Optimal Live Stream Bitrate",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://streamshark.io/blog/bpp-calculator-for-live-stream-bitrate/"
+            } ],
+            "date_added": "13307967423159040",
+            "date_last_used": "0",
+            "date_modified": "13307967423159040",
+            "guid": "4d1adba9-83e7-4809-8117-44f331b2bf5f",
+            "id": "20",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13363796893190675",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13136276398275198",
+            "date_last_used": "0",
+            "guid": "a0b8a6ea-2494-4cc2-aea1-b75ec556772e",
+            "id": "7",
+            "name": "ASTRA-MANTRAS IN THE RIG VEDA",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://m.facebook.com/notes/mantra-shlokas/astra-mantras-in-the-rig-veda/305302559482575/"
+         }, {
+            "date_added": "13177249006819399",
+            "date_last_used": "0",
+            "guid": "4764fb5b-53d6-4b23-925d-3a07fd8f00b4",
+            "id": "8",
+            "name": "How big is a quark? | Science | The Guardian",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.co.in/amp/s/amp.theguardian.com/science/life-and-physics/2016/apr/07/how-big-is-a-quark"
+         }, {
+            "date_added": "13177249233161351",
+            "date_last_used": "0",
+            "guid": "0d5f6064-041c-4937-be77-6fb0ecb732ca",
+            "id": "9",
+            "name": "size of electron - Google Search",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.google.co.in/search?client=ms-android-htc&biw=360&bih=286&ei=XEtcW6nSDcjjvAS2o6PYAw&q=size+of+electron&oq=size+of+e&gs_l=mobile-gws-wiz-serp.1.0.35i39j0i131j0l3.96529.102286..103937...4.0...308.4120.0j4j13j1......0....1.........0i71j33i22i29i30j33i160j0i67.0YhJO05TBPQ"
+         }, {
+            "date_added": "13265444961065999",
+            "date_last_used": "0",
+            "guid": "c52e32f8-0bb7-4be4-81f8-87f6a4bfe691",
+            "id": "10",
+            "name": "SS64 Command line reference",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://ss64.com/"
+         }, {
+            "date_added": "13265444972867105",
+            "date_last_used": "0",
+            "guid": "755e491a-fb2f-47dd-87c5-be354225fe6a",
+            "id": "11",
+            "name": "Experiments",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "chrome://flags/"
+         }, {
+            "date_added": "13265444980172252",
+            "date_last_used": "0",
+            "guid": "2cbcaa38-f6ea-4a6d-8204-d391f6863c51",
+            "id": "12",
+            "name": "iCloud",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.icloud.com/iclouddrive/"
+         }, {
+            "date_added": "13271765502045010",
+            "date_last_used": "0",
+            "guid": "bd27a930-7e8f-4abc-8c97-793355a3e747",
+            "id": "13",
+            "name": "https://admissions-it.nirmauni.ac.in/Student/AdmissionCategory.aspx",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://admissions-it.nirmauni.ac.in/Student/AdmissionCategory.aspx"
+         }, {
+            "date_added": "13306084538005918",
+            "date_last_used": "0",
+            "guid": "4dc01652-3474-422e-9432-fb57617975c0",
+            "id": "14",
+            "name": "Products – Lorada – Default Shop",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://lorada.c-themes.com/default-shop/shop/"
+         }, {
+            "date_added": "13306432133855676",
+            "date_last_used": "0",
+            "guid": "49dbeeda-e90c-4532-9787-58a310a57633",
+            "id": "15",
+            "name": "Calculator, Maximum camera image dimension and pr…",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.scantips.com/mpixels.html"
+         }, {
+            "children": [ {
+               "date_added": "13306432147493541",
+               "date_last_used": "0",
+               "guid": "d584325b-cc12-4a00-ab94-2b115f7bee64",
+               "id": "17",
+               "name": "Calculator, Maximum camera image dimension and pr…",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.scantips.com/mpixels.html"
+            } ],
+            "date_added": "13308660166856775",
+            "date_last_used": "0",
+            "date_modified": "13308660166856775",
+            "guid": "ef2933ef-79e5-412b-a65e-287b1280ee51",
+            "id": "16",
+            "name": "New Folder",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13363796893190678",
+         "date_last_used": "0",
+         "date_modified": "13306432133855676",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCBDaCTqQAQAAEgAqGHNLNmFpbmp3eXV1S2czczlneEgxNnc9PUgDoAYKEokBCAEShAEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDkwZDhjMWY5LWVmNmQtNTRlMy05YzAzLTA2N2RmY2IyNTA5MRgAIAAoADCz6LmVszA4x86f0f4vQMfOn9H+L0ocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASqAEIIhKjAQocS3NrUDcvNmozUjJOenJRamVwQWYvY1NjM2dRPRIkMWQ1YjRkYTEtNDUzMS00NWQ2LTk3N2ItNzVlN2UzNzBiMDllGAAgACgAMI+0p9CDMjintqfQgzJAp7an0IMyShxpdjJ4eFVOR3A1SDdEZlppMTZxQnNnSWthclk9Wh8iHdt2eHJnVjFIdmMvRGUvSXFrbFF1c3FBTzdhZ1U9ZbOmPJESqAEIIRKjAQocWi82TmlaSlIyajJRV3Z2dlN4QlZXeldCVDhRPRIkNWM2ZDQwMTktMzhiMS00YTgwLTllMmQtZTNhYzM2NzdmNmU2GAAgACgAMPiU3IPqMTiultyD6jFArpbcg+oxShx6bm1zMUVnMHpMRFBkSDV4aGdXeVZOd3ZyUEU9Wh8iHbdjbTFzQXVJSWRQT1NQQWtnSU1DZlNMVlF2d2c9ZW7V9zkSpwEIIBKiAQocSmN4U1hHT0s0eGRwdjdoQkUySTNIQm12cHpvPRIkNmFiMTk5NjgtYzVkMi00NGRkLWEzMjItOGQ2MzNjNjdkOTYyGAAgACgAMOHEovisMTjbyqL4rDFA28qi+KwxShwwUUZzQVkvU2s5RHVOdjZwNVRCa2hyK2Z3M009Wh4iHG9EeHlTYy9BeG9jVmpXVHVFRUUwNFpVMk9Jdz1l2K+wAhKnAQgfEqIBChxzeVhTckRwbWlwVWRPRXhMaERQM1A2aGdPQjQ9EiQ0NmJjZTY0NS1kM2Y1LTRlNTMtOThlYy0yODQ4NGMxMWY4NjAYACAAKAAw1MPqieswOOCx6onrMEDgseqJ6zBKHGFDcmlra0dGWHlOMUEwZzBoOE9wWm5pd0FBUT1aHiIcWFIwNi81N3E5N09XdnBUbFc2ZExqV3VDSkhvPWUAAAAAEqgBCB0SowEKHFgvSUI0MjhtWVFmZVluRmRROFpqMTVBQ0wvcz0SJDY4ZmJlODZlLTE0YmMtNDJkYi1hZTNiLTljZjlmODU0YWI0MBgAIAAoADCqwdX/tDA4gsTV/7QwQILE1f+0MEocQ3VvSnFHdktoTU9oYkVmejFTaytZc29aUklrPVofIh3/UVBxcTYzdHJBTk5hWFRqOXNYZnZWdFhIZGhzPWUAAAAAEqgBCBQSowEKHG9LNmZudEdqWDc2V0RQdlVIL1g1MGdKU2FjUT0SJDRkMWFkYmE5LTgzZTctNDgwOS04MTE3LTQ0ZjMzMWIyYmY1ZhgAIAAoADCqwdX/tDA4mMLV/7QwQJjC1f+0MEocM3V1TDdGTUY1K1pjbDlJSXZrUkNCVCtqUWpRPVofIh3aVnlOMTU2RktoYnhLQ2x4T2d0OGJsbFZ1ZkdrPWUAAAAAEqgBCBsSowEKHG5qNFhVaWdLK3lIUTMxT3crcXNVcmxsTDVxRT0SJDVhOTdhZWNkLWQ5ZDQtNGQ0Ny1iMWZhLWEwNDgzZjgyZTZmZRgAIAAoADCqwdX/tDA408PV/7QwQNPD1f+0MEocSUw5UGtvZzg5dkJZZGlrWTcxa1RKVXJHalpZPVofIh39aFBEdVduWk0vbDI2MzhFU3YrYTNGb1hKRFpBPWUuW9e8EqgBCBkSowEKHG5QeXk2SHFqL3RBL3JycDNWNzFjclcvOFBDVT0SJDE0YzA3ZTFhLTgxY2YtNDQxZS1iYWY4LTY0NDdmOTZhZjQ5NBgAIAAoADCqwdX/tDA4lcPV/7QwQJXD1f+0MEocOUYzazNKZ2dLM3NMcVI4MERHWUZoZzJodlBrPVofIh32azY5UlI1VGE3cytaSkIrd05mZHZYQUhoL1ZNPWUAAAAAEqcBCBUSogEKHG1renh4WGdXdTE2cjI5TVh0NjNTbFp0eUd0bz0SJDJlNmNjNzVhLTNjYmYtNDdlMS05ODlhLTAwMDJkYjM1YTIxYxgAIAAoADCqwdX/tDA4qMLV/7QwQKjC1f+0MEocQTlMeDhrQWdCWHd5U1hHQnZoeXFuakJ4Q3lRPVoeIhxmM2dDcG1Tc2daRWNEK2VFaFdrOERMYndTcUE9ZQAAAAASqAEIChKjAQocYjkvZ0FvUVBOaHE4OThTdDR0WmNLY2N0ZmU4PRIkYzUyZTMyZjgtMGJiNy00YmU0LTgxZjgtODdmNmE0YmZlNjkxGAAgACgAMOGV7+WVMDjEmO/llTBAxJjv5ZUwShxtbDFVZlJaMmhsMXU3QXdZUVRKalBJS3FiNTA9Wh8iHe9wYlpLZnJ3SlluL25VSU9WK1N3SEVjL2RDQzg9ZW46FkgSqAEIGhKjAQocNE5xZXRVRkh0dTI2S2l6VVJta0JwWFIzT3I4PRIkZDY4ODc2OTYtM2IyYS00MzJkLWE0ZTQtYzc5OTMzMjIzOTQ2GAAgACgAMKrB1f+0MDi0w9X/tDBAtMPV/7QwShxNNXBmRmZ1eVBRSDI5cnA4Tm5iL1VNNllGMFE9Wh8iHftuSTJFcFVGNm1jWmFoYkluS3lvam1LVEtzUnc9ZbEjPZkSqAEIGBKjAQocblA0Ny9jVU9PdGZvOGVyR3IySVVpeWJKeUVzPRIkYTNlMGVmYTQtNTQxZS00ZGM3LWJlMGItMDEzNjdiNmIxNGRkGAAgACgAMKrB1f+0MDj2wtX/tDBA9sLV/7QwShxZNFRSdXBvU2VTVHFuMVZDYytMZ0NMU1kvSzg9Wh8iHexZNThaOFhMQlZwR2tQTmlnZmVZaUxRV25SMDQ9ZW46FkgSiQEIAhKEAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZGFhNjc2YTAtZDEzMS01ZmM3LWIzOWMtNWQ4YjJlYzc4ZDg5GAAgACgAMLPouZWzMDjnzp/R/i9A586f0f4vShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABKoAQgjEqMBChwzZDNTM0dHdldvSzBIclA2SzVOR3JXVUFBUkE9EiQ0MGY1MGJlMi05NzIwLTQ2MjQtOWQwNy0zOTVjZmU5MWMxYzkYACAAKAAwtZimmuUxOKmdpprlMUCpnaaa5TFKHFRhdUI3TkxJODdjOHA2ZlBVOXExQ2F3bUptUT1aHyId/1lGdXF6ZlNrSENzR3phZUU0d0djUnpuSUZBTT1lAAAAABKoAQgcEqMBChxLb1JpclpGT3JySk5hekdxQTE3SFFnVUJQYTQ9EiQ2ODAxMDEzNS02MWUxLTQ0M2MtYjhkYi1kMDc2NWIzMzFmZDEYACAAKAAwjKn/ybcwOOPD1f+0MEDjw9X/tDBKHG5zYmZQZjdEbmNJNlZxRHh3d2c4dzErcW1tMD1aHyId/jRDL3hSSnRHbGxWZm9vWjlMcm1jZXErcGJDbz1lhO4vMxKoAQgXEqMBChxUeFVYTUVxNUl4RHpSWkdCbVo3NTVlT2t4QzA9EiQ5ZWIzMWY5Ni1jNDQxLTRlZDctYjhlZi1kZDZjZDNmOGZhNjkYACAAKAAwqsHV/7QwOObC1f+0MEDmwtX/tDBKHEhRdERZSHE2TjU4cTB6VDkxaHEyUXZhTGtNdz1aHyId2VJBbWZrNDVaQ0ErT2ptb1ZGWjhhME9EUHFyWT1lAAAAABKnAQgREqIBChwyTWw0dTY2ZktUdzIrRGcyM01aSUtGeWF1L0E9EiRkNTg0MzI1Yi1jYzEyLTRhMDAtYWI5NC0yYjExNWY3YmVlNjQYACAAKAAw7qX/ybcwOIin/8m3MECIp//JtzBKHFVaUjFPVFhkbmE4eGRLdThXNFpuZGNud3Q0az1aHiIccm5sZFJaY1ZCc0pPVlJhOEd5MzQ0Q1k0T09jPWWE7i8zEqkBCCQSpAEKHCtJRU5TRFdGTEtRVkQ4czF2dHByTG1BRUNkdz0SJDg4ZDZkYTEwLWM4MDktNGE4OS04ZTQ1LWFjOTA5N2M0ZGMxMxgAIAAoADC0mKaa5TE4kJ2mmuUxQJCdpprlMUoccEpxMXFDZHRENWQzeUZxaklDL290TU1PSDFvPVogIh7/rEJjVXNrVGlHSXo4Z08zVUN4ZDd2UkRIcjVoVT1lAAAAABKoAQgMEqMBChxtMnpoK0FoZ3JiRG9GQkx4aFNwVFFhVzBzZm89EiQyY2JjYWEzOC1mNmVhLTRhNmQtODIwNC1kMzkxZjY4NjNjNTEYACAAKAAw4ZXv5ZUwOKeX7+WVMECnl+/llTBKHGVKUWlRaWRyUGJhSTFQWDdWUFdEUkFrV3dydz1aHyId+1YxNWlUNjV5cFhNbENsckdjV0swSk5ONHhqWT1lsSM9mRKnAQgeEqIBChx3UFpLUkRGblYrc0wvSXhsalpqbTBZZEZ6TFk9EiRhZmVlNGI2ZS0xZWNjLTQ4NjQtODBmZC1lMjkzYjZhZjlkM2MYACAAKAAwjKn/ybcwOKLE1f+0MECixNX/tDBKHFZUZmZzelgzTjg2N0xyTy9tTkRla0E0UGRvbz1aHiIcMXNCd1BpeUFoMU16MktKUWJudXNWSFZmaVlJPWWE7i8zEqkBCBASpAEKHFhySUpWellBTFQ5cHNIWC9hSXdkS0YrOEpVND0SJGVmMjkzM2VmLTc5ZTUtNDEyYi1hNjVlLTI4N2IxMjgwZWU1MRgAIAAoADDupf/JtzA46ab/ybcwQOmm/8m3MEocbFZJK3dKM1Z5SG5kVVFhWitsU2ZUbnBna25JPVogIh7/tDZocFc5Yy96aFAzTk81UjBJSDlWcXZYVVNmOD1lAAAAABKoAQgLEqMBChxsWEtqMmMvRHpnK2NhUW9zbDBQcVZ0L2JOZ3c9EiQ3NTVlNDkxYS1mYjJmLTQ3ZGQtODdjNS1iZTM1NDIyNWZlNmEYACAAKAAw4ZXv5ZUwOOOY7+WVMEDjmO/llTBKHHZreEJBcjg4a01Sb2NzUG5XYXUvYWhzUXpkMD1aHyId93lyVkZYa2t3KzlxeVNCSUhnYnFPV0FlUVRKaz1lAAAAABKoAQgNEqMBChx1a1YwS1lCVWRaMFJDTTAzN1l5L2t1M2N1ZEk9EiRiZDI3YTkzMC03ZThmLTRhYmMtOGM5Ny03OTMzNTVhM2U3NDcYACAAKAAw4ZXv5ZUwONaX7+WVMEDWl+/llTBKHHZxanJJZHNxSTBHL2RQT0JlNXZ4NGNVNWZROD1aHyId/S9JWHEzU3hnYzhHYXpWYWgyUS9vaWIvR1FKOD1lLlvXvBKoAQgIEqMBChw1Z2VLSk9DcWZmWkdBUkVRajNwNkIyLzNFcHM9EiQ0NzY0ZmI1Yi01M2Q2LTRiMjMtOTI1ZC0zYTA3ZmQ4ZjAwYjQYACAAKAAw4ZXv5ZUwOIiX7+WVMECIl+/llTBKHDFHc3YycDZtQyt2M0JKWm1wdWV0WDRqREFrdz1aHyIdvFBGRVVpaUpEZk5lNjFHRHhXMHBQUFNNWFVUaz1lAAAAABKoAQgTEqMBChxsWFY1cE9TWTErbEVBYndPbmFjVHd5L0VYZ2s9EiQyZGNhYzA5YS04ZmU0LTRhMjItYTY1ZS0zY2ZmMjc3M2I3YmIYACAAKAAwqsHV/7QwOMHE1f+0MEDBxNX/tDBKHGUvZlBxQ3hycjZpR0ErQ3diSFdEUHN6SC9Zdz1aHyIdtCtiZUVOczNmVzdYQ1dTNzBsZHRkWFhJZS9tVT1lAAAAABKnAQgHEqIBChwySlFNYlBGeUFNaXNqYmJ3bGFyMGgzMDFyajA9EiRhMGI4YTZlYS0yNDk0LTRjYzItYWVhMS1iNzVlYzU1Njc3MmUYACAAKAAw4ZXv5ZUwOKSY7+WVMECkmO/llTBKHGtJUGJ6KzBZckxYeDEwU2d1TGxiVE5RYSsybz1aHiIceU84N042VGoxbnpBVFNYTWpncTVvNGJ4WHQ0PWUAAAAAEqgBCA8SowEKHDAwRXV0Rm9iTy9icjZtcjVZUXhUNFloRGRxQT0SJDQ5ZGJlZWRhLWU5MGMtNDUzMi05Nzg3LTU4YTMxMGE1NzYzMxgAIAAoADDupf/JtzA4uqb/ybcwQLqm/8m3MEoceFZPdEZ5ZzVIMitnRjZxRmFBTzI0aDhSN2RNPVofIh3/aHYrTWlubjQvL0VIVzFFQ2ZyUWtwUklhaXk4PWWE7i8zEqgBCA4SowEKHFp2WDB5YzlsT214QjhLQjRyQWJ2cTdGNmNCdz0SJDRkYzAxNjUyLTM0NzQtNDIyZS05NDMyLWZiNTc2MTc5NzVjMBgAIAAoADDEs+v9rTA48bPr/a0wQPGz6/2tMEocSDJTNkovOS9QbFNIZ0FwNVIwVlBYWjN0RzNNPVofIh3+M0RWQ0haKy82WWxjbWVJOE8vVHltakdOcC9zPWWeiAMtEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDY2M2M2MDMyLWYzMTAtNTVlNC04MTBkLWY2Njk3YjhmYWFlYhgAIAAoADCz6LmVszA4xM+f0f4vQMTPn9H+L0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASpwEIEhKiAQocUkVjY3pXczZXVHNJMytIdEFSMVU2bEJYZklJPRIkY2EyNmZjN2YtNmJjOC00M2QwLWFkMzQtYmMwNDIyNTgxNzIwGAAgACgAMKrB1f+0MDj5wdX/tDBA+cHV/7QwShxsVGZnWDdibGxINC9Ha0JUSzlzVzlFMGdmZ0k9Wh4iHGhua1BNVzJYQTBHZTZ3SUdWNGhyRDBNeEV0ND1lAAAAABKoAQgJEqMBChxhd3Q1bSt1Tnlld3FqaXZWNHI1OFBTYjgycW89EiQwZDVmNjA2NC0wNDFjLTQ5MzctYmU3Ny02ZmIwZWNiNzMyY2EYACAAKAAw4ZXv5ZUwOIWY7+WVMECFmO/llTBKHHZ5anhmcys4Rml0VUJsU0R6VVgvQlFBVGJHdz1aHyId3kJ4SC9JendMdi9kWW9taldBYTRTZk1Wa0E2UT1lAAAAABKoAQgWEqMBChxrb1VIMXh1QUw4MUZvNGM1TkprRlJuY3ozUXc9EiQwOWUyMjEyMS1iMzBiLTRkZGUtYTQyZi1mMmRiNWQ2NTM4ZDAYACAAKAAwqsHV/7QwOMfC1f+0MEDHwtX/tDBKHDdFQlhyR3FYcHVpTUNLKzNKS1Qybks2cWlqND1aHyIdsyswY3NoYjhlb0ppYk4xY2dWSFd2eExrUHptcz1lAAAAADAAOAA=",
+   "version": 1
+}

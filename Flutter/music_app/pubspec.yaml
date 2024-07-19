@@ -1,0 +1,20 @@
+name: music_player_app
+description: A simple music player app.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.9.38
+  audio_video_progress_bar: ^2.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/audio/Aaj Mare Orde Re Full_(Peaceful).mp3
+    - assets/audio/Pee_Loon_Ishq_Sufiyana_T-Series_Mixtape_Neha_Kakkar_Sreerama_Bhushan_Kumar_Ahmed_K_Abhijit_V.mp3
+    - assets/audio/T-Series_Mixtape_-Gazab_Ka_Hai_Din_Bawara_Mann_Song_Shaan_Sukriti_K_Bhushan_Kumar_Ahmed_Abhijit.mp3
